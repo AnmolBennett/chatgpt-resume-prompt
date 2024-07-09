@@ -1,0 +1,106 @@
+{
+    "Name": "Kumar Anmol",
+    "Contact Information": {
+        "Email": "k.anmol1437@gmail.com",
+        "Phone": "+91-9582544698",
+        "Address": "Noida",
+        "LinkedIn": "LinkedIn",  // Placeholder, exact URL not provided
+        "GitHub": "GitHub",  // Placeholder, exact URL not provided
+        "Leetcode": "CodingNinjas"  // Assuming CodingNinjas is the Leetcode profile, as exact URL not provided
+    },
+    "Professional Summary": "",
+    "Work Experience and relevant skills": [
+        {
+            "Company": "BloodConnect Foundation",
+            "Job Title": "Volunteer",
+            "Dates": "",
+            "Responsibilities": [
+                "Engaged with over 120 organizations residential communities and educational institutions to coordinate blood donation campaigns",
+                "Attended to over 20 emergency calls on a weekly basis along with arranging necessary blood/platelet units for recipients.",
+                "Participated in over 15 blood donation campaigns and awareness sessions alongside fellow volunteers."
+            ]
+        }
+    ],
+    "Education": [
+        {
+            "Institution": "Bennett University (Times of India Group)",
+            "Degree": "Bachelor of Technology in Computer Science",
+            "Dates": "September 2021 - May 2025",
+            "Specialization": "Artificial Intelligence and Machine Learning",
+            "CGPA": "8.58"
+        }
+    ],
+    "Skills": [
+        "C++",
+        "Python",
+        "Java",
+        "SQL",
+        "Streamlit",
+        "Flask",
+        "OpenCV",
+        "BeautifulSoup",
+        "Git",
+        "Render",
+        "AWS",
+        "VS Code",
+        "Google Colab",
+        "Microsoft Azure",
+        "Data Structures & Algorithms",
+        "Object Oriented Programming",
+        "DBMS",
+        "Cloud Infrastructure",
+        "Data Extraction",
+        "EDA",
+        "Feature Selection",
+        "Pandas",
+        "Numpy",
+        "Matplotlib",
+        "NLP",
+        "LangChain",
+        "LlamaIndex",
+        "Prompt Engineering"
+    ],
+    "Projects": [
+        {
+            "Title": "Cross-Media Recommender System",
+            "Technologies": ["Python", "NLTK", "Scikit-Learn", "Streamlit"],
+            "Description": "Created an end-to-end user-friendly platform using Streamlit for personalized recommendations of 5 similar movies or books leveraging content-based and collaborative filtering algorithms.",
+            "Details": "Employed the TMDB 5000 movie dataset and a comprehensive book recommendation dataset featuring metadata for over 250000 books in multiple languages.",
+            "Link": "GitHub"  // Placeholder, exact URL not provided
+        },
+        {
+            "Title": "Emotion Detection System",
+            "Technologies": ["Python", "TensorFlow", "Keras", "ResNet50v2", "VGG16", "OpenCV"],
+            "Description": "Designed and iterated on custom CNN models including advanced architectures such as VGG16 and ResNet50v2.",
+            "Details": "Addressed class imbalance in the FER-2013 dataset by employing image augmentation and class weights. Achieved a 66% overall accuracy on emotion classification with the final model based on ResNet50v2 across 7 emotion labels. Deployed the model for real-time emotion detection in live video streams using Gradio and OpenCV.",
+            "Link": "GitHub"  // Placeholder, exact URL not provided
+        },
+        {
+            "Title": "Credit Risk Assessment System",
+            "Technologies": ["Python", "Scikit-Learn", "XGBoost", "Flask"],
+            "Description": "Developed a model to accurately assess the risk factors associated with providing loans to customers.",
+            "Details": "Conducted data preprocessing and feature selection on over 80 features addressed multicollinearity using sequential VIF and effectively reduced the feature set to 39. Performed chi-square test on categorical data and ANOVA on numerical data to calculate p-values in relation to the target variable. Achieved an 81% accuracy rate following hyperparameter tuning representing an 8% improvement with the final fine-tuned model implemented using XGBoost. Deployed a Flask application along with an ‘.exe’ file which generates the results in an excel file.",
+            "Link": "GitHub"  // Placeholder, exact URL not provided
+        },
+        {
+            "Title": "Music Generation",
+            "Technologies": ["Python", "Music21", "TensorFlow", "Streamlit", "AudioCraft"],
+            "Description": "Developed an advanced model capable of predicting notes based on a melody snippet supplied by the user.",
+            "Details": "Collaborated with a teammate to incorporate the AudioCraft library enabling the generation of music from textual prompts provided by the user.",
+            "Link": "GitHub"  // Placeholder, exact URL not provided
+        },
+        {
+            "Title": "Health Insurance Cost Predictor",
+            "Technologies": ["Python", "Scikit-Learn", "Streamlit"],
+            "Description": "Developed a health insurance predictor based on region age BMI and additional factors.",
+            "Details": "Employed machine learning algorithms like linear regression random forest and gradient boosting. Gradient Boosting with its accuracy being 88% was selected as the most efficient model for prediction.",
+            "Link": "GitHub"  // Placeholder, exact URL not provided
+        }
+    ],
+    "Certifications": [],
+    "Languages": [],
+    "Miscellaneous": [
+        "Achieved a global rank of 390 out of 3324 participants in CodeChef Starters 132 (Division 3).",
+        "Solved 450+ DSA problem solving questions on coding platforms such as CodingNinjas GeekForGeeks and LeetCode."
+    ]
+}
